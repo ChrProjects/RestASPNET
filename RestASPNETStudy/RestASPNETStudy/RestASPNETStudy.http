@@ -1,0 +1,6 @@
+@RestASPNETStudy_HostAddress = http://localhost:5075
+
+GET {{RestASPNETStudy_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
